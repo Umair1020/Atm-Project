@@ -1,7 +1,7 @@
 const Amount = () => {
   let amount = document.getElementById("amount").value
   document.getElementById("result").innerHTML == ""
-  let notes = [500, 100, 20, 10, 1]
+  let notes = [5000, 500, 100, 20, 10, 1]
   let a = 0;
   let noofnote = 0;
   let limit = 100000
